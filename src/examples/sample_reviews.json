@@ -1,1 +1,10 @@
-
+[
+  {
+    "diff": "Added raw SQL query using string concatenation",
+    "expected_issue": "Potential SQL Injection"
+  },
+  {
+    "diff": "500-line controller method added",
+    "expected_issue": "Function too long / SRP violation"
+  }
+]
