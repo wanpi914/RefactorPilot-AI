@@ -1,1 +1,8 @@
+Suggest maintainable refactoring improvements for the provided code.
 
+Focus on:
+- Readability
+- Modularity
+- Reusability
+- Performance
+- Design Patterns
