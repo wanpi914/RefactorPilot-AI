@@ -1,1 +1,8 @@
+Analyze the code for security vulnerabilities.
 
+Check for:
+- Injection Risks
+- Hardcoded Secrets
+- Unsafe Deserialization
+- Auth / Permission Issues
+- Data Leakage Risks
